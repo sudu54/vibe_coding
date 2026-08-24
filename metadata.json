@@ -1,0 +1,6 @@
+{
+  "name": "Todo App",
+  "description": "A single-page Todo application with a REST API backend, persistent storage, and interactive task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
